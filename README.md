@@ -38,8 +38,6 @@ A classic Tetris game built with **HTML**, **CSS**, and **JavaScript**, enhanced
 
 ## Screenshots
 
-Here are some screenshots of the game:
-
 ![Tetris Game Screenshot 1](tetrisgame1.png)
 
 ![Tetris Game Screenshot 2](tetrisgame2.png)
